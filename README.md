@@ -1,8 +1,3 @@
-> **Attention! This repository is not currently maintained and is kept for historical purpose only.**
-
-Please, read: https://github.com/artpolikarpov/fotorama/issues/532
-
-:lock::lock::lock:
 
 # Fotorama source
 
